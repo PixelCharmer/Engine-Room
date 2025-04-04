@@ -4,13 +4,13 @@ import { motion } from 'framer-motion';
 
 const nodes = [
     { id: 'node1', weight: 2, image: '/images/node1.png' },
-    { id: 'node2', weight: 1, image: '/images/node2.png' },
+    { id: 'node2', weight: 4, image: '/images/node2.png' },
     { id: 'node3', weight: 3, image: '/images/node3.png' },
-    { id: 'node4', weight: 2, image: '/images/node4.png' },
-    { id: 'node5', weight: 1, image: '/images/node5.png' },
-    { id: 'node6', weight: 3, image: '/images/node6.png' },
-    { id: 'node7', weight: 2, image: '/images/node7.png' },
-    { id: 'node8', weight: 1, image: '/images/node8.png' },
+    { id: 'node4', weight: 5, image: '/images/node4.png' },
+    { id: 'node5', weight: 2, image: '/images/node5.png' },
+    { id: 'node6', weight: 6, image: '/images/node6.png' },
+    { id: 'node7', weight: 3, image: '/images/node7.png' },
+    { id: 'node8', weight: 5, image: '/images/node8.png' },
 ];
 
 export default function GameBoard() {
