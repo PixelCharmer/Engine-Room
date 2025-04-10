@@ -5,7 +5,7 @@ import './styles.css';
 function App() {
     return (
         <div className="app">
-            <h1>Engineering Bay - Fix the Engine</h1>
+            <h1>Engineering Bay - Balance the Engine</h1>
             <GameBoard />
         </div>
     );

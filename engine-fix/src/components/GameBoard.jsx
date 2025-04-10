@@ -94,7 +94,7 @@ export default function GameBoard() {
         } else if (totalWeightA !== totalWeightB) {
             alert('The crates are unbalanced! Try again.');
         } else {
-            alert('Success! The warp core access code is: 80302');
+            alert('Success! The warp core access code is: 28697');
         }
     };
 
